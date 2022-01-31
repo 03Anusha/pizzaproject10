@@ -1,0 +1,54 @@
+{
+    
+    "Products": [
+        { "_id": "1",
+            "image": "/public/images/img2.jpeg",
+            "flavour": "Achari Do pyasa",
+            "description": "Tangy & spicy achari flavors on a supper chessy pizza as desi as it gets.",
+            "prize":"$149.00"
+
+        },
+        { "_id": "2",
+            "image": "/public/images/img3.jpeg",
+            "flavour": "Margherita" ,
+            "description": "Classic delight with 100% real mozzarella chesse." ,
+            "prize": "$100"
+
+        },
+        { "_id": "3",
+            "image": "/public/images/img4.jpeg",
+            "flavour": "Veggie Paradise",
+            "description": "The awsesome foursome!  black olives,capsicum,tomato,red paprika.",
+            "prize":"$225"
+
+        },
+        { "_id": "4",
+            "image": "/public/images/img5.jpeg",
+            "flavour": "Chiken Fiesta" ,
+            "description": "Grilled chiken rashes,peri-peri chiken,onion & tomato,a complete fiesta.",
+            "prize": "$400"
+
+        },
+        { "_id": "5",
+            "image": "/public/images/img6.jpeg",
+            "flavour": "Chesse Dominator" ,
+            "description": "Loaded with 1 pound of Mozzarella and gooey Liquid chesse on a classic Large pizzA topped with a panner.",
+            "prize": "$500"
+
+        },
+        { "_id": "6",
+            "image": "/public/images/img7.jpeg",
+            "flavour": "Mexican Veggie Wave" ,
+            "description": "Mexican herbs sprinkled on onion,capsicum,tomato.",
+            "prize": "$200"
+
+        },
+        { "_id": "7",
+            "image": "/public/images/img8.jpeg",
+            "flavour": "Chiken Sausage",
+            "description": "American classic! Spicy, herbed chiken sausage on pizza",
+            "prize": "$350"
+
+        } 
+    ]
+}
